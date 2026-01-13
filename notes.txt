@@ -1,0 +1,34 @@
+Assignment on module 2
+Topic: Version Control using Git & GitHub – Repository Setup, Branching, Merging, and Deployment
+Part 1: Set Up a Local Git Repository
+1.Create a new folder on your computer for this assignment.
+
+2.Initialize a new Git repository inside the folder.
+
+3.Create a file named README.md.
+
+4.Add a short description of the project in README.md.
+
+5.Stage the file and commit it with a clear and meaningful commit message.
+
+Part 2: Create and Connect a GitHub Repository
+1.Create a new public repository on GitHub with a suitable name.
+
+2.Connect your local repository to the GitHub repository using:
+git remote add origin <repository-url>
+
+3.Push your local main branch to GitHub.
+
+Part 3: Create and Work on a New Branch
+1.Create a new branch named feature-update.
+
+2.Switch to the feature-update branch.
+
+3.Do one of the following:
+
+○      Edit README.md and add more details
+OR
+
+○      Create a new file (e.g., notes.txt) and add some meaningful content.
+
+4.Stage and commit the changes on the feature-update branch.
